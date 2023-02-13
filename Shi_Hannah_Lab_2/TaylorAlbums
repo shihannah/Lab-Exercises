@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head> 
+    <meta name="Albums Released" content="Taylor Swift Albums">
+    <title>Albums Released</title>
+    </head>
+    <body>
+    <h1 style="color: #A8CAEC">Albums Released By Taylor Swift:</h1>
+    <div id="Album Table">
+        <table border= "1" style="border-spacing: 10px 5px">
+            <tr>
+                <td><center><img src="TaylorSwiftAlbum.png" width=150 height=150></center></td>
+                <td><center><img src="Fearless.png" width=150 height=150></center></td>
+                <td><center><img src="SpeakNow.png" width=150 height=150></center></td>
+            </tr>
+            <tr>
+                <td><p><center>Taylor Swift (2006)</center></p></td></td>
+                <td><center>Fearless (2008)</center></td>
+                <td><center>Speak Now (2010)</center></td>
+            </tr>
+
+            <tr>
+                <td><center><img src="Red2012.png" width=150 height=150></center></td>
+                <td><center><img src="1989.png" width=150 height=150></center></td>
+                <td><center><img src="Reputation.png" width=150 height=150></center></td>
+            </tr>
+
+            <tr>
+                <td><p><center>Red (2012)</center></p></td></td>
+                <td><center>1989 (2014)</center></td>
+                <td><center>Reputation (2017)</center></td>
+            </tr>
+
+            <tr>
+                <td><center><img src="Lover.png" width=150 height=150></center></td>
+                <td><center><img src="folklore.png" width=150 height=150></center></td>
+                <td><center><img src="evermore.png" width=150 height=150></center></td>
+            </tr>
+
+            <tr>
+                <td><p><center>Lover (2019)</center></p></td></td>
+                <td><center>Folklore (2020)</center></td>
+                <td><center>Evermore (2020)</center></td>
+            </tr>
+
+            <tr>
+                <td><center><img src="Midnights.png" width=150 height=150></center></td>
+                <td><center><img src="FearlessNew.png" width=150 height=150></center></td>
+                <td><center><img src="RedNew.png" width=150 height=150></center></td>
+            </tr>
+
+            <tr>
+                <td><p><center>Midnights (2022)</center></p></td></td>
+                <td><center>Fearless (Taylor's Version) (2021)</center></td>
+                <td><center>Red (Taylor's Version) (2021)</center></td>
+            </tr>
+          </table>
+    </div>
+    </body>
+</html>
